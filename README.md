@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👨‍💻 John Doe
+# 👨‍💻 Rudresh Raj
 
-**`Web Developer | Frontend | Backend`**
+**`Web Developer | Frontend `**
 
 I'm a passionate web developer with expertise in both frontend and backend technologies. My focus is on creating responsive and user-friendly web applications. From designing UI/UX to implementing robust server-side logic, I'm committed to delivering high-quality software solutions.
 
@@ -40,10 +40,10 @@ I'm a passionate web developer with expertise in both frontend and backend techn
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/johndoe/" target="_blank">
+  <a href="https://www.linkedin.com/in/rudresh-raj-510734229/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="@johndoe" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/johndoe" target="_blank">
+<!--   <a href="https://twitter.com/johndoe" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="@johndoe" height="30" width="30" />
-  </a>
+  </a> -->
 </p>
