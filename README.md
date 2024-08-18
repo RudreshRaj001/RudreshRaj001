@@ -41,10 +41,11 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 
 ---
 
-### 📊 GitHub Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RudreshRaj001)
+### 📊 GitHub Stats and Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudreshRaj001&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RudreshRaj001)
+
+### 🌟 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudreshRaj001)
 
 ---
