@@ -34,8 +34,12 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 </div>
 
 
+---
 
-#
+### 📊 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Rudresh_Raj&theme=light)
+
+---
 
 ### 🌐 Connect with me
 
