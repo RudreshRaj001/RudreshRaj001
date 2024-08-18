@@ -42,9 +42,15 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 ---
 
 ### 📊 GitHub Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RudreshRaj001&" alt="RudreshRaj001" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudreshRaj001&show_icons=true&count_private=true&hide_title=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudreshRaj001)
+
+<!-- Streak Stats -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RudreshRaj001" alt="RudreshRaj001" />
+
+<!-- GitHub Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RudreshRaj001&show_icons=true&count_private=true&hide_title=true&hide=prs" alt="RudreshRaj001" />
+
+<!-- Top Languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudreshRaj001" alt="Top Languages" />
 
 ---
 
