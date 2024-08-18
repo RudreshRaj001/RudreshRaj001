@@ -41,6 +41,12 @@ I'm a skilled software engineer with expertise in full-stack development, partic
 
 ---
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudreshRaj001&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudreshRaj001)
+
+---
+
 ### 🌐 Connect with me
 
 <p align="left">
