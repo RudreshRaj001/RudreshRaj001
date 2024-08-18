@@ -53,6 +53,9 @@ I'm a skilled software engineer with expertise in full-stack development, partic
   <a href="https://www.linkedin.com/in/rudresh-raj-510734229/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Rudresh Raj on LinkedIn" height="30" width="30" />
   </a>
+<a href="https://stackoverflow.com/users/26864801/rudresh-raj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21005632" height="30" width="40" />
+</a>
 </p>
 
 <!--
