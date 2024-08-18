@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer | Software Engineer`**
 
-I'm a skilled software engineer with expertise in full-stack development, particularly the MERN stack. With a strong foundation in BTech Computer Science Engineering, I excel in building robust and scalable web applications, from frontend interfaces to backend systems. My passion lies in turning ideas into functional, efficient, and user-friendly digital solutions.
+I'm a skilled software engineer with expertise in full-stack development, particularly the MERN stack. I excel in building robust and scalable web applications, from frontend interfaces to backend systems. My passion lies in turning ideas into functional, efficient, and user-friendly digital solutions.
 
 ---
 
